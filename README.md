@@ -1,8 +1,20 @@
-# BISA CURB DETECTION
+# LiDAR-CURB-DETECTION
 
-description: This repository is made for detection roadside curbs using 3D LiDAR scanner
+Simple algorithm to detect the curb of road environment using 3D LiDAR <br/>
 
-Author: Park Seong Chang
+<br/>
 
+## Tested Environment
 
+- Ubuntu 18.04
+- ROS Melodic
 
+<br/>
+
+## Summary
+
+* Subscribe `sensor_msgs/PointCloud2` msg
+* Curb Detection from the point cloud
+* Publish seperate curb (e.g. **left_curb**, **right_curb**)
+
+![](/lidar-curb.gif)
