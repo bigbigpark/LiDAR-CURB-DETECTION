@@ -28,7 +28,7 @@ Simple algorithm to detect the curb of road environment using 3D LiDAR <br/>
 Clone, build and run
 
 ~~~bash
-$ git https://github.com/bigbigpark/LiDAR-CURB-DETECTION.git
+$ git clone https://github.com/bigbigpark/LiDAR-CURB-DETECTION.git
 ~~~
 
 ~~~bash
