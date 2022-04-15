@@ -29,6 +29,7 @@ Clone, build and run
 
 ~~~bash
 $ git clone https://github.com/bigbigpark/LiDAR-CURB-DETECTION.git
+$ git clone https://github.com/bigbigpark/lidar_msgs.git
 ~~~
 
 ~~~bash
